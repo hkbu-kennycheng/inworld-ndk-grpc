@@ -41,7 +41,7 @@
 	url = https://github.com/libuv/libuv.git
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
-	url = https://github.com/inworld-ai/inworld-ndk-abseil-cpp
+	url = https://github.com/hkbu-kennycheng/inworld-ndk-abseil-cpp
 	branch = inworld-main
 [submodule "third_party/protobuf"]
 	path = third_party/protobuf
